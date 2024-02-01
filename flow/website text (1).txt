@@ -1,0 +1,77 @@
+Note: all pages should have a footer that says "Copyright 2023 - Flowork Software Corporation - All Rights Reserved"
+Should have a menu at the top with "Home" "About" and "More Info".  Might want to highlight More Info somehow.
+I will provide the company logo for the top of the page. Obviously the design should work with the colors and theme of our logo.  I also have a graphic-only part of the logo that we use on LinkedIn for the company page; I can supply this if you want to incorporate it somewhere in the design (not required, just an option).
+I really like this clean design: www.clientsuccess.com
+Live chat will be at the bottom of each page - code will be provided
+
+Home Page:
+
+Incorporate product screenshot; does not need to be (and probably shoulnd't be) full size; people visiting don't necessarily have to see the details.  (Maybe make it clickable and have the full size version come up in a popup).
+
+Flowork is software for your entire post-sale customer lifecycle
+Onboarding * Professional Services * Customer Success * Technical Support
+Save up to 2/3 of your current software spend
+
+Features
+
+Customer Success
+----------------
+AI-based Health Scoring
+AI-based Recommendations Engine for CSMs
+Playbooks
+Success Planning
+Maturity Modeling
+Sophisticated Journey Conductor
+   - Create Complex Customer Journeys
+   - Assist with Customer Success at Scale
+See GRR and NRR Company-wide, Per Team, and Per CSM
+
+
+Onboarding & Professional Services
+----------------------------------
+Assign Tasks to Customers
+Customer Portal
+Project Templates
+     - Quickly build simple or complex projects
+Easy Project Kanban Board
+AI-based Recommendations Engine for Project Managers
+
+
+
+Technical Support
+-----------------
+Ticketing System
+Knowledgbase
+Case Deflection
+    - Automatically search knowledbase for common issues
+Customer Portal
+Advanced Support tracking metrics
+AI-based Recommendations Engine for Support Analysts
+
+
+Button for "More Info" that leads to the More Info Page (also should be an item for it on the top menu)
+
+------------------------------------------
+
+About Page:
+
+Pictures of the two co-founders with a paragraph about each one.  Text below:
+
+Ariel Benzakein
+Co-Founder & CEO
+Ariel has over 25 years of experience leading all of the post-sale, customer-facing teams at tech companies, including Professional Services, Customer Success, Technical Support, and Account Management. He created the first Customer Success team at Experian Data Quality, and has a track record of using proven playbooks to increase gross and net revenue retention at many companies. He is frequently asked to share his expertise in Customer Success on leadership panels and podcasts, and has won the APPEALIE Award for Customer Success Leadership. Ariel graduated Summa Cum Laude from Arizona State University.
+
+Justin Johnson
+Co-Founder & CTO
+(I don't have the text for this yet, you can just put placeholder text in there)
+
+-------------------------------------------
+
+More Info
+
+Here is the text for the page, should be at the top.  I will provide the code for the embedded contact form; there are also customizations that can be made to the colors on the form -- I will provide the fields and you can tell me what to put in them to work with the design:
+
+Flowork is currently in development, with a projected release date in Q1 of 2024.  Stay in touch with us for the latest news and information!
+
+
+

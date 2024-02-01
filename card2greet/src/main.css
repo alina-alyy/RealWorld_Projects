@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.max-container {
+  @apply sm:max-w-[95%] 2xl:max-w-[70%] mx-auto;
+}
+
+.btn {
+  @apply text-white bg-custom-blue px-4 md:px-10 py-2 md:py-3;
+}
+
+
+.search-bar {
+  background-image: url("../src/images/icons8-search-50.png");
+  background-position: 10px; 
+  background-size: 38px 38px;
+  background-repeat: no-repeat;
+  padding: 12px 20px 12px 60px;
+}
+
+.card-container::-webkit-scrollbar {
+  display: none; /* Hide scrollbar in Chrome, Safari and Opera */
+}
+
+
+.card-container {
+  /* ... */
+  overflow-x: auto; /* Set overflow in horizontal scroll */
+  overflow-y: hidden; /* Hidden overflow in vertical scroll */
+  scroll-snap-type: x mandatory; /* Force the scroll to snap to the start of a scroll-snap area */
+}
+
+
+.card {
+  @apply flex items-center justify-center;
+  /* min-width: 200px; */
+  scroll-snap-align: start; /* Set the element focus position in scroll container */
+}
+
+.slick-dots {
+  @apply !bottom-[-50px]
+}

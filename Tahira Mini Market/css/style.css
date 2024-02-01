@@ -1,0 +1,177 @@
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+section, footer, header, .info-bar {
+    padding: 0 100px;
+}
+
+.info-bar {
+    background-color: #198245;
+}
+
+.info-item:hover {
+    cursor: pointer;
+    background-color: #085026;
+}
+
+.nav-link {
+    padding: 0;
+    font-weight: 700;
+}
+
+.nav-link:hover {
+    color: #198245 !important;
+    border-bottom: 1px solid #198245;
+}
+
+.contact-btn {
+    font-weight: 300;
+    background-color: #198245;
+    color: white;
+    outline: none;
+    border: none;
+    transition: background-color 0.3s;
+}
+.contact-btn:hover {
+    background-color: #085026;
+}
+
+.call-text {
+    color: #198245;
+    font-weight: bold;
+}
+
+#first-sec {
+    box-shadow: inset 0px -15px 30px rgba(182, 179, 179, 0.5);
+}
+
+#second-sec img {
+    min-width: 200px; /* Adjust the value as needed */
+  }
+
+#thrid-section{
+    background-color: #f1f9e7;
+    padding-top: 40px;
+}
+
+#fourth-section {
+    padding-top: 40px;
+}
+
+#fourth-section > h3 {
+    font-size: 44px;
+    font-weight: bold;
+}
+
+.footer-info {
+    border-bottom: 1px solid #085026;
+    padding-bottom: 10px;
+}
+
+@media (max-width: 1400px) {
+
+    section, footer, header, .info-bar {
+        padding: 0 30px;
+    }
+    
+
+    .w-sm-100 {
+        width: 100% !important;
+    }
+
+    .main-image {
+        width: 80% !important;
+    }
+
+}
+
+@media (max-width: 767.98px) { 
+    
+    .w-sm-100 {
+        width: 100% !important;
+    }
+
+    section, footer, header, .info-bar {
+        padding: 0 10px;
+    }
+    
+    .second-sec-card-text{
+        margin-top: 14% !important;
+        margin-left: 10% !important;
+    }
+
+    .second-bg{
+        width: 80%;
+    }
+
+    #fifth-section img {
+        width: 15%;
+    }
+
+    .testi-text {
+        font-size: 12px;
+    }
+
+    footer {
+        font-size: 12px;
+    }
+
+    /* footer img {
+        display: none;
+    } */
+
+    .testi-section {
+        width: 90% !important;
+    }
+
+    .testi-section > img {
+        width: 15%;
+    }
+
+    #fourth-section > h3 {
+        font-size: 24px;
+    }
+    .contact-btn {
+        font-size: 14px;
+    }
+
+    .info-bar {
+        font-size: 10px;
+    }
+
+    .quality-text {
+        font-size: 12px;
+    }
+
+    .call-text {
+        font-size: 14px;
+    }
+
+    .call-image {
+        width: 40px;
+    }
+
+    .navbar-brand > img {
+        width: 60%;
+    }
+
+    .main-image {
+        width: 100% !important;
+        height: 55%;
+    }
+
+    .footer-contacts, .footer-help, .footer-useful {
+        font-size: 10px;
+    }
+
+    .footer-contacts img {
+        width: 16px;
+    }
+
+    .social-icons img {
+        width: 15px;
+    }
+}
+
